@@ -120,7 +120,7 @@ This repository includes only the core backend and supporting documentation. The
 **Android OCR Repository:**  
 👉 https://github.com/Lettie-a-code/projectOCR_v2
 
-### Why a Separate Repository?
+# ❓ Why a Separate Repository?
 
 The Android Studio project is managed independently to:
 - Maintain clear separation of platform-specific code
