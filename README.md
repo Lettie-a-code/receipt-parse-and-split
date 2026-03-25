@@ -113,5 +113,21 @@ Logcat output confirms that the OCR process executes correctly, with recognized 
 - Conduct quality assurance testing for improved character and digit recognition accuracy
 
 -  Evaluate performance under varying lighting and image conditions
+The Android Studio project for the OCR component is maintained in a separate repository due to its size, platform-specific dependencies, and independent development lifecycle.
+
+This repository includes only the core backend and supporting documentation. The Android mobile application can be accessed at the following location:
+
+**Android OCR Repository:**  
+👉 https://github.com/Lettie-a-code/projectOCR_v2
+
+### Why a Separate Repository?
+
+The Android Studio project is managed independently to:
+- Maintain clear separation of platform-specific code
+- Simplify dependency management and build configurations
+- Support independent development, testing, and deployment cycles
+- Improve repository performance and maintainability
+
+Please refer to the Android repository for installation instructions, build steps, and mobile-specific documentation.
 
 -  Enhance UI/UX for better user interaction
